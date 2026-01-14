@@ -1,0 +1,26 @@
+[
+    {
+        "creacion": 2000,
+        "genero": "comedia",
+        "id": "1001",
+        "titulo": "futurama"
+    },
+    {
+        "creacion": 2014,
+        "genero": "comedia",
+        "id": "1002",
+        "titulo": "Simpsons"
+    },
+    {
+        "creacion": 2014,
+        "genero": "terror",
+        "id": "1003",
+        "titulo": "American Horror"
+    },
+    {
+        "creacion": 2014,
+        "genero": "suspenso",
+        "id": "1004",
+        "titulo": "dexter"
+    }
+]
