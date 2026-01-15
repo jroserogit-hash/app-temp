@@ -5,6 +5,12 @@ export default function Vista() {
   return (
     <View>
       <Text>Vista</Text>
+      <Text>Vista</Text>
+      <Text>Vista</Text>
+      <Text>Vista</Text>
+      <Text>Vista</Text>
+      <Text>Vista</Text>
+      <Text>Vista</Text>
     </View>
   )
 }
